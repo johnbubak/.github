@@ -1,0 +1,10 @@
+# Zentraler Sponsor-Default für alle Repos von @johnbubak.
+# Liegt im Spezial-Repo johnbubak/.github und gilt für jedes Repo
+# OHNE eigene FUNDING.yml. Eine repo-eigene Datei schlägt diesen
+# Default komplett (kein Merge).
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+github: [johnbubak]
+ko_fi: johnbubak
+custom:
+  - https://paypal.me/janBobka
+  - https://app.binance.com/qr/dplkj8
